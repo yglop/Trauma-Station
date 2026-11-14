@@ -16,7 +16,7 @@
   - type: Item
     size: Tiny
     heldPrefix: bluespace_crystal
-  - type: LinkedEntityContainer
+  - type: LinkedEntity
   - type: EntityEffectOnUse
     effectsToUsed:
     - !type:SpawnLinkedEntity
